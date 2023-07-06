@@ -1467,7 +1467,7 @@
       <dependency>
         <groupId>org.apache.yetus</groupId>
         <artifactId>audience-annotations</artifactId>
-        <version>${javadoc.audience-annotations.version}</version>
+        <version>${audience-annotations.version}</version>
       </dependency>
       <!-- compression -->
       <dependency>
